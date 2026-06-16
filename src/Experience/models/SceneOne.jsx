@@ -6,7 +6,7 @@ import { useFrame } from "@react-three/fiber";
 const SOCIAL_ICONS = [
   { key: "github", texture: "/textures/icons/github.png", url: "https://github.com/Mistaponda/mista-ponda" },
   { key: "x", texture: "/textures/icons/x.png", url: "https://x.com/Mistapondabot" },
-  { key: "capsule", texture: "/textures/icons/capsule.png", url: "https://pump.fun/coin/GJrUZ8ujYxW7zPgK4Pedh1SJd6ZMBZtSP47Qzz5Mpump" },
+  { key: "capsule", texture: "/textures/icons/capsule.png", url: "https://pump.fun/coin/BdKaNgnFuMB5tZLi6hMxDKJ87LjTYzCfgXubdCWpump" },
 ];
 
 const ICON_BASE_POSITION = [-18.15, 1.1, -2.7];
